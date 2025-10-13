@@ -13,6 +13,6 @@ public class Conversion {
 			combined[i] = intArray[i] + "" + charArray[i];
 		
 		}
-		System.out.println("No changes"+Arrays.toString(combined));
+		System.out.println(Arrays.toString(combined));
 }
 }
