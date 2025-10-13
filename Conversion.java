@@ -14,5 +14,7 @@ public class Conversion {
 		
 		}
 		System.out.println("No changes"+Arrays.toString(combined));
+System.out.println("No changes");
+
 }
 }
